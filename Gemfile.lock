@@ -203,6 +203,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootsnap
+  cable_ready (~> 5.0.pre8)
   cssbundling-rails
   debug
   figaro
