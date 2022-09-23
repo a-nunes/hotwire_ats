@@ -4,6 +4,10 @@
 # or operating system, you probably want to add a global ignore instead:
 #   git config --global core.excludesfile '~/.gitignore_global'
 
+# Ignore db credentials
+/db_password.txt
+/db_user.txt
+
 # Ignore bundler config.
 /.bundle
 
@@ -34,3 +38,6 @@
 !/app/assets/builds/.keep
 
 /node_modules
+
+# Ignore application configuration
+/config/application.yml
