@@ -8,6 +8,9 @@
 /db_password.txt
 /db_user.txt
 
+# Ignore rubymine configs
+/.idea
+
 # Ignore bundler config.
 /.bundle
 

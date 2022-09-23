@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84302009-ab1a-4466-846c-50ccb9b33355" name="Changes" comment="chore: config mrujs and CableReady">
+    <list default="true" id="84302009-ab1a-4466-846c-50ccb9b33355" name="Changes" comment="feat: add Dashboard controller">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hotwired_ats.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hotwired_ats.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/application_record.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/application_record.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +152,8 @@
       <updated>1663944046686</updated>
       <workItem from="1663944048729" duration="425000" />
       <workItem from="1663944490738" duration="599000" />
-      <workItem from="1663945102972" duration="3295000" />
+      <workItem from="1663945102972" duration="3521000" />
+      <workItem from="1664814338584" duration="367000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1663945246545</created>
@@ -237,7 +239,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663948221856</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="chore: config rails to use UUID as primary key">
+      <created>1663948446079</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1663948446079</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat: add Dashboard controller">
+      <created>1663948604831</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1663948604831</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,6 +279,8 @@
     <MESSAGE value="chore: config StimuluxReflex" />
     <MESSAGE value="chore: config ActionCable" />
     <MESSAGE value="chore: config mrujs and CableReady" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: config mrujs and CableReady" />
+    <MESSAGE value="chore: config rails to use UUID as primary key" />
+    <MESSAGE value="feat: add Dashboard controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add Dashboard controller" />
   </component>
 </project>
