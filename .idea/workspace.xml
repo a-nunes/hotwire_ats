@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84302009-ab1a-4466-846c-50ccb9b33355" name="Changes" comment="chore: config ActionCable">
+    <list default="true" id="84302009-ab1a-4466-846c-50ccb9b33355" name="Changes" comment="chore: config mrujs and CableReady">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/javascript/application.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/javascript/application.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/application_record.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/application_record.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +151,7 @@
       <updated>1663944046686</updated>
       <workItem from="1663944048729" duration="425000" />
       <workItem from="1663944490738" duration="599000" />
-      <workItem from="1663945102972" duration="3063000" />
+      <workItem from="1663945102972" duration="3295000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1663945246545</created>
@@ -234,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663947769111</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="chore: config mrujs and CableReady">
+      <created>1663948221856</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1663948221856</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,6 +262,7 @@
     <MESSAGE value="chore: config bin/dev scripts" />
     <MESSAGE value="chore: config StimuluxReflex" />
     <MESSAGE value="chore: config ActionCable" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: config ActionCable" />
+    <MESSAGE value="chore: config mrujs and CableReady" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: config mrujs and CableReady" />
   </component>
 </project>
