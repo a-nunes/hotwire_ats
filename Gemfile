@@ -47,6 +47,8 @@ gem "bootsnap", require: false
 
 gem "figaro"
 
+gem 'devise', branch: 'rails_7', github: 'DavidColby/devise'
+
 # Use Sass to process CSS
 # gem "sassc-rails"
 
