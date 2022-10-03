@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84302009-ab1a-4466-846c-50ccb9b33355" name="Changes" comment="feat: add Dashboard controller">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/hotwired_ats.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hotwired_ats.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="84302009-ab1a-4466-846c-50ccb9b33355" name="Changes" comment="feat: add Dashboard controller" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,7 +149,7 @@
       <workItem from="1663944048729" duration="425000" />
       <workItem from="1663944490738" duration="599000" />
       <workItem from="1663945102972" duration="3521000" />
-      <workItem from="1664814338584" duration="367000" />
+      <workItem from="1664814338584" duration="763000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1663945246545</created>
@@ -253,7 +249,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663948604831</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="feat: add Dashboard controller">
+      <created>1664814998740</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1664814998740</updated>
+    </task>
+    <task id="LOCAL-00016" summary="feat: add Dashboard controller">
+      <created>1664815059615</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1664815059615</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
