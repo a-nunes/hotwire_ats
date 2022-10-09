@@ -14,8 +14,21 @@ services:
       - db_user
       - db_password
 
+  redis:
+    image: redis:alpine
+    restart: always
+    ports:
+      - 6379:6379
+    command: redis-server --save 20 1 --loglevel warning
+    volumes:
+      - cache:/data
+
 secrets:
   db_password:
     file: db_password.txt
   db_user:
     file: db_user.txt
+
+volumes:
+  cache:
+    driver: local

@@ -28,6 +28,7 @@ Rails.application.configure do
     config.public_file_server.headers = {
       "Cache-Control" => "public, max-age=#{2.days.to_i}"
     }
+    config.action_mailer.default_url_options = { host: 'localhost', port: 3000 }
   else
     config.action_controller.perform_caching = false
 
