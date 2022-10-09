@@ -47,6 +47,11 @@ gem "bootsnap", require: false
 
 gem "figaro"
 
+gem "redis", ">= 4.0"
+gem "hiredis"
+
+gem 'devise', branch: 'rails_7', github: 'DavidColby/devise'
+
 # Use Sass to process CSS
 # gem "sassc-rails"
 
@@ -73,3 +78,5 @@ end
 gem "stimulus_reflex", "= 3.5.0.pre8"
 
 gem "cable_ready", "~> 5.0.pre8"
+
+gem "inline_svg", "~> 1.8"
