@@ -47,6 +47,9 @@ gem "bootsnap", require: false
 
 gem "figaro"
 
+gem "redis", ">= 4.0"
+gem "hiredis"
+
 gem 'devise', branch: 'rails_7', github: 'DavidColby/devise'
 
 # Use Sass to process CSS
